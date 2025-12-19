@@ -1,0 +1,1 @@
+# Write-a-Python-program-to-convert-decimal-number-to-an-equivalent-binary-number.
